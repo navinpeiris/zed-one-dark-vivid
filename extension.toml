@@ -1,6 +1,6 @@
 id = "one-dark-pro-vivid-theme"
 name = "One Dark Pro Vivid"
-version = "0.2.0"
+version = "0.3.0"
 schema_version = 1
 authors = ["Navin Peiris <navinpeiris@gmail.com>"]
 description = "One Dark Pro theme with vivid colors and improved contrast"
